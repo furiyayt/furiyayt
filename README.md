@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Furiya YT - Ігровий канал на тему антропоморфні тварини
+
 <!--
 **furiyayt/furiyayt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
